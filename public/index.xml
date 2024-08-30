@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MY CABIN</title>
+    <link>/</link>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;h2&gt;&lt;a id=&#34;contact&#34;&gt;Contact&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;wngp dot finished408 at aleeas dot com&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to send your complaints that there is no evidence of A. H. knowing about Endlösung der Judenfrage.&lt;/p&gt;
+&lt;h2&gt;&lt;a id=&#34;gpg&#34;&gt;GPG keys&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;You can send encrypted files to me with GNU Privacy Guard.&lt;br&gt;
+&lt;a href=&#34;/key.gpg&#34;&gt;GPG&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a id=&#34;xmr&#34;&gt;XMR&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://getmonero.org&#34;&gt;Monero&lt;/a&gt; wallet.&lt;br&gt;
+XMR: 47Ka9qsmZML7C1s2NnhuRmYLu124s8P7McCKAGcYzyENA5DRmVYjvorAKcYtSziG4E3UUQRmAk6isPctgtCxdJ2ZLyuTS6V&lt;/p&gt;
+&lt;h2&gt;&lt;a id=&#34;license&#34;&gt;License&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Site licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0&#34;&gt;CC BY-SA 4.0&lt;/a&gt; unless said otherwise.&lt;br&gt;
+&lt;h2&gt;&lt;a id=&#34;varg&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+Home page image copyright by &lt;a href=&#34;https://burzum.org/img/thulean_perspective/varg_hillman_vikernes.jpg&#34;&gt;Varg Vikernes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;web-pins&#34;&gt;Web pins&lt;/h2&gt;
+&lt;p&gt;Buttons for linking this awesome website if you like it&lt;br&gt;
+
+
+  &lt;img src=&#34;/button.webp&#34; height=88em&gt;
+  &lt;img src=&#34;/button2.webp&#34; height=&#34;88em&#34;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;src=ericmurphy.xyz&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About cloud content...</title>
+      <link>/empty/</link>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 +0100</pubDate>
+      
+      <guid>/empty/</guid>
+      <description>&lt;p&gt;I am above it. You will understand at your death bed.&lt;br&gt;
+There is place for better social media replacements but you&amp;rsquo;re in wrong place.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/content.tar.gz&#34;&gt;My content!!!(tar.gz)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It should work on everything.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;decompress with &lt;a href=&#34;https://peazip.github.io&#34;&gt;PeaZip&lt;/a&gt;, &lt;a href=&#34;https://www.7-zip.org&#34;&gt;7-zip&lt;/a&gt;, material files(android) or gnu tar&lt;/li&gt;
+&lt;li&gt;On android open html with ghost commander in browser, or markor.&lt;/li&gt;
+&lt;li&gt;On desktop drag and drop html from your file manager to any browser.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
