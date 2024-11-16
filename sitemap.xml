@@ -8,9 +8,10 @@
     <loc>/content/</loc>
     <lastmod>2024-01-01T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-  </url><url>
     <loc>/</loc>
+    <lastmod>2024-01-01T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
