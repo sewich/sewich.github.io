@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2025-01-31T10:00:00+01:00</lastmod>
+    <loc>/update/infotainment/</loc>
+    <lastmod>2025-02-28T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>/update/copyright-sucks/</loc>
-    <lastmod>2025-01-31T10:00:00+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2025-02-28T10:00:00+01:00</lastmod>
   </url><url>
     <loc>/update/</loc>
+    <lastmod>2025-02-28T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/update/copyright-sucks/</loc>
     <lastmod>2025-01-31T10:00:00+01:00</lastmod>
   </url><url>
     <loc>/about/</loc>
