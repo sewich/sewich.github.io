@@ -43,6 +43,21 @@ Unfortunately, by promoting censorship you don&#39;t have control over who will 
     </item>
     
     <item>
+      <title>FreePi</title>
+      <link>/soydev/freepi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/soydev/freepi/</guid>
+      <description>&lt;p&gt;I disassembled some crappy broken lenovo laptop recently and left the motherboard because it was a small rectangle and reminded me of SBCs.
+I wanted to see how much i can do without cooling and i could boot debian with KDE Plasma and play minesweeper, palapeli and chess.
+See? Told you gayming on linux is not a problem.
+All i can do for a case is screw it to a plank and add walls, and make a wooden case like for an electric contraption for school project.
+I could add a heatsink but i don&amp;rsquo;t want thermal paste to be the only thing keeping it glued to the CPU. It would be pretty useful to have some cooling because there is no clock settings to prevent overheating, and it overheats when playing a youtube video, which shuts it down.
+Yes, you can just leave the fan for cooling and still use it but that would be boring, and i don&amp;rsquo;t want to actually use it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>I fucking hate laptops</title>
       <link>/soydev/laptops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -200,7 +215,7 @@ I don&#39;t like depending on some people being nice, but social media largely d
       <description>&lt;p&gt;Wordpress users hate him! Find out how he avoided forced TikTok culture in websites.&lt;a href=&#34;https://github.com/sewich&#34;&gt;(GITHUB SAUCE CODE)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Seriously, if you need to organize your content, use folders. Could you imagine not storing files in folders but instead relying on their date and some &amp;ldquo;playlists&amp;rdquo;? Now i feel that even on Odysee. This is very inefficient. Files need to be stored in actual folders, and available as a list as an option, to view like in a gallery.&lt;/p&gt;
 &lt;p&gt;Can&amp;rsquo;t believe i&amp;rsquo;m using hugo instead of raw html
-&lt;img src=&#34;/rawhtml.webp&#34; alt=&#34;bell curve&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;/i/rawhtml.webp&#34; alt=&#34;bell curve&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hope this doesn&amp;rsquo;t break your soy RSS reader&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/I3Jz4dt_eLk&#34;&gt;Longer video about the problem with blogs by a developer&lt;/a&gt;&lt;/p&gt;
 </description>
