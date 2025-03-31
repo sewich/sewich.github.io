@@ -16,9 +16,19 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/soydev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/soydev/</guid>
+      <description>&lt;h1 id=&#34;soydevs-diary&#34;&gt;Soydev&amp;rsquo;s diary&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Mon, 01 Jan 2024 10:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
       <description>&lt;h2&gt;&lt;a id=&#34;contact&#34;&gt;Contact&lt;/a&gt;&lt;/h2&gt;
@@ -85,17 +95,13 @@ Search engines are garbage.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;video-content-creators&#34;&gt;Video content creators&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;/kings.webp&#34; alt=&#34;3 kings&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;rss&#34;&gt;RSS&lt;/h2&gt;
-&lt;p&gt;This website has minor bugs, and i haven&amp;rsquo;t been able fix everything in a few months, i will not fix it, it&amp;rsquo;s just retarded.
-You can&amp;rsquo;t rely on rss button. If you want to see actual posts in rss, click rss button when you visit subfolders like /update or /soydev.
-Can&amp;rsquo;t remember how many times i have changed something on this site, it doesn&amp;rsquo;t make sense.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cloud content.</title>
       <link>/content/</link>
-      <pubDate>Mon, 01 Jan 2024 10:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/content/</guid>
       <description>&lt;p&gt;There is place for social media replacements but you&amp;rsquo;re in wrong place.&lt;/p&gt;
@@ -108,21 +114,38 @@ Can&amp;rsquo;t remember how many times i have changed something on this site, i
 &lt;li&gt;On android open html with markor or ghost commander.&lt;/li&gt;
 &lt;li&gt;On desktop drag and drop html from your file manager to browser.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;about-my-content-prodoosing-and-difficulty-in-doing-it&#34;&gt;About my content prodoosing and difficulty in doing it&lt;/h1&gt;
-&lt;p&gt;I don&amp;rsquo;t like to write super long essays because i usually find that for the most part i feel like there is no need for endless slop, and it feels unmanagable for me pretty quickly. I probably overthink it.&lt;/p&gt;
-&lt;p&gt;The topics that i choose to write are usually difficult, but i feel like i have to create something meaningful so that i can give back like people that i read when i was younger, and so that new people that seek truth can get it at premium quality.&lt;/p&gt;
-&lt;p&gt;To some extent i also want to advertise myself and stick out of internet garbage ocean. This is a conversation starter, and it already worked for me. Obviously it doesn&amp;rsquo;t make sense to start talking to everyone without knowing them from something.&lt;/p&gt;
-&lt;p&gt;I have significantly more motivation to actually say something longer if the topic isn&amp;rsquo;t covered well, or ignored.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title></title>
-      <link>/soydev/</link>
+      <title>Help</title>
+      <link>/help/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/soydev/</guid>
-      <description>&lt;h1 id=&#34;soydevs-diary&#34;&gt;Soydev&amp;rsquo;s diary&lt;/h1&gt;
+      <guid>/help/</guid>
+      <description>&lt;h2 id=&#34;rss&#34;&gt;RSS&lt;/h2&gt;
+&lt;p&gt;This website has minor bugs, and i haven&amp;rsquo;t been able fix everything in a few months, i will not fix it, it&amp;rsquo;s just retarded.
+You can&amp;rsquo;t rely on rss button. If you want to see actual posts in rss, click rss button when you visit subfolders like /update or /soydev.
+Can&amp;rsquo;t remember how many times i have changed something on this site, it doesn&amp;rsquo;t make sense.&lt;/p&gt;
+&lt;h2 id=&#34;content-archivetargz-with-local-html&#34;&gt;Content archive(tar.gz with local html)&lt;/h2&gt;
+&lt;p&gt;Tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;decompress with &lt;a href=&#34;https://peazip.github.io&#34;&gt;PeaZip&lt;/a&gt;, &lt;a href=&#34;https://www.7-zip.org&#34;&gt;7-zip&lt;/a&gt;, material files(android) or gnu tar&lt;/li&gt;
+&lt;li&gt;On android open html with markor or ghost commander.&lt;/li&gt;
+&lt;li&gt;On desktop drag and drop html from your file manager to browser.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;about-my-content-prodoosing-and-difficulty-in-doing-it&#34;&gt;About my content prodoosing and difficulty in doing it&lt;/h2&gt;
+&lt;p&gt;I don&amp;rsquo;t like to write super long essays because i usually find that for the most part i feel like there is no need for endless slop, and it feels unmanagable for me pretty quickly. I probably overthink it.&lt;/p&gt;
+&lt;p&gt;The topics that i choose to write are usually difficult, but i feel like i have to create something meaningful so that i can give back like people that i read when i was younger, and so that new people that seek truth can get it at premium quality.&lt;/p&gt;
+&lt;p&gt;To some extent i also want to advertise myself and stick out of internet garbage ocean. This is a conversation starter, and it already worked for me. Obviously it doesn&amp;rsquo;t make sense to start talking to everyone without knowing them from something.&lt;/p&gt;
+&lt;p&gt;I have significantly more motivation to actually say something longer if the topic isn&amp;rsquo;t covered well, or ignored.&lt;/p&gt;
+&lt;h2 id=&#34;unstable-internet-and-power-outage---onion-hidden-service-torrents-lbry&#34;&gt;Unstable internet and power outage - Onion hidden service, Torrents, LBRY&lt;/h2&gt;
+&lt;p&gt;I had very unstable internet connection for over a year, they came and replaced the router for free on agreement, it seemed better for a day, after that everything was back to normal. The agreement will soon end and we will try with other company or even a cellular plan if that would be enough bandwidth. I didn&amp;rsquo;t have any problems with cellular connection, i had to switch to it many times.
+I also have a short power outage a few times a week. Take that into account.&lt;/p&gt;
+&lt;p&gt;I have bigger files and archives on LBRY, i might host them directly through LBRY or BitTorrent if there will be a need.
+If you have some problems downloading/viewing content, you should contact me through e-mail instead of immediately giving up. There aren&amp;rsquo;t that many people viewing this anyway, so it&amp;rsquo;s good to see someone interested. My setup and situation is changing over time and it&amp;rsquo;s best to simply ask.&lt;br&gt;
+I don&amp;rsquo;t want to rent more stuff than i use, and i barely use anything.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t have a seedbox 24/7.&lt;/p&gt;
 </description>
     </item>
     

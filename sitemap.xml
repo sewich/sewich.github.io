@@ -14,20 +14,18 @@
     <loc>/update/copyright-sucks/</loc>
     <lastmod>2025-01-31T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-    <lastmod>2024-01-01T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/content/</loc>
-    <lastmod>2024-01-01T10:00:00+01:00</lastmod>
-  </url><url>
     <loc>/soydev/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>/about/</loc>
   </url><url>
     <loc>/soydev/andrew-tate/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/soydev/censorship/</loc>
+  </url><url>
+    <loc>/content/</loc>
   </url><url>
     <loc>/soydev/diversity/</loc>
   </url><url>
@@ -36,6 +34,8 @@
     <loc>/tags/funny/</loc>
   </url><url>
     <loc>/soydev/harmless-habits/</loc>
+  </url><url>
+    <loc>/help/</loc>
   </url><url>
     <loc>/soydev/laptops/</loc>
   </url><url>
