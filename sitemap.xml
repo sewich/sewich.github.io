@@ -15,7 +15,6 @@
     <lastmod>2025-01-31T10:00:00+01:00</lastmod>
   </url><url>
     <loc>/soydev/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/about/</loc>
   </url><url>
@@ -26,6 +25,8 @@
     <loc>/soydev/censorship/</loc>
   </url><url>
     <loc>/content/</loc>
+  </url><url>
+    <loc>/soydev/codeberg-spam/</loc>
   </url><url>
     <loc>/soydev/diversity/</loc>
   </url><url>
