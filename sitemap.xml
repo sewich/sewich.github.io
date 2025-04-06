@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/update/infotainment/</loc>
-    <lastmod>2025-02-28T10:00:00+01:00</lastmod>
+    <loc>/soydev/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/soydev/iamjewish/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/update/infotainment/</loc>
     <lastmod>2025-02-28T10:00:00+01:00</lastmod>
   </url><url>
     <loc>/update/</loc>
@@ -14,13 +20,15 @@
     <loc>/update/copyright-sucks/</loc>
     <lastmod>2025-01-31T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>/soydev/</loc>
-  </url><url>
     <loc>/about/</loc>
+  </url><url>
+    <loc>/soydev/american-cardboard-houses/</loc>
   </url><url>
     <loc>/soydev/andrew-tate/</loc>
   </url><url>
     <loc>/soydev/bittorrent/</loc>
+  </url><url>
+    <loc>/soydev/books/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
