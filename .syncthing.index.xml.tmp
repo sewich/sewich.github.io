@@ -1,0 +1,154 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MY CABIN</title>
+    <link>/</link>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/soydev/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/soydev/</guid>
+      <description>&lt;h1 id=&#34;soydevs-diary&#34;&gt;Soydev&amp;rsquo;s diary&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Updates</title>
+      <link>/update/</link>
+      <pubDate>Fri, 28 Feb 2025 10:00:00 +0100</pubDate>
+      
+      <guid>/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;h2&gt;&lt;a id=&#34;contact&#34;&gt;Contact&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;wngp dot finished408 at aleeas dot com&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/i/adolf.webp&#34; alt=&#34;contact&#34;&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a id=&#34;gpg&#34;&gt;GPG keys&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;You can send encrypted files to me with GNU Privacy Guard.&lt;br&gt;
+&lt;a href=&#34;/key.gpg&#34;&gt;GPG&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a id=&#34;xmr&#34;&gt;XMR&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://getmonero.org&#34;&gt;Monero&lt;/a&gt; wallet.&lt;br&gt;
+XMR: 47Ka9qsmZML7C1s2NnhuRmYLu124s8P7McCKAGcYzyENA5DRmVYjvorAKcYtSziG4E3UUQRmAk6isPctgtCxdJ2ZLyuTS6V&lt;/p&gt;
+&lt;h2&gt;&lt;a id=&#34;license&#34;&gt;License&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Site licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0&#34;&gt;CC BY-SA 4.0&lt;/a&gt; unless said otherwise.&lt;br&gt;
+Source code for this site is available at &lt;a href=&#34;https://github.com/sewich/sewich.github.io&#34;&gt;https://github.com/sewich/sewich.github.io&lt;/a&gt;
+&lt;h2&gt;&lt;a id=&#34;varg&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+Home page image copyright by &lt;a href=&#34;https://burzum.org/img/thulean_perspective/varg_hillman_vikernes.jpg&#34;&gt;Varg Vikernes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;web-pins&#34;&gt;Web pins&lt;/h2&gt;
+&lt;p&gt;I have a different take on web pins. Small WebP images, up to 30kb, no flashy garbage. but if it&amp;rsquo;s sensible, you can do animated WebP too.&lt;br&gt;
+Other sites:&lt;br&gt;
+
+
+  &lt;a href=&#34;https://denshi.org/antiporn.html&#34;&gt;&lt;img src=&#34;/button/p0rn.webp&#34; height=88em&gt;&lt;/a&gt;
+  &lt;a href=&#34;https://distro.tube&#34;&gt;&lt;img src=&#34;/button/derek-derek.webp&#34; height=88em&gt;&lt;/a&gt;
+  &lt;a href=&#34;https://lukesmith.xyz&#34;&gt;&lt;img src=&#34;/button/hustlers.webp&#34; height=88em&gt;&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Buttons for linking this awesome website if you like it:&lt;br&gt;
+
+
+  &lt;img src=&#34;/button/button.webp&#34; height=88em&gt;
+  &lt;img src=&#34;/button/button2.webp&#34; height=&#34;88em&#34;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;src=ericmurphy.xyz
+&lt;a href=&#34;https://wiki.installgentoo.com/wiki/File:Luke_Smith_pussy_slayer.jpg&#34;&gt;https://wiki.installgentoo.com/wiki/File:Luke_Smith_pussy_slayer.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;other-cool-sites&#34;&gt;Other COOL sites:&lt;/h2&gt;
+&lt;p&gt;No association with these sites, but i like them.&lt;br&gt;
+Search engines are garbage.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;distro.tube&lt;/li&gt;
+&lt;li&gt;denshi.org&lt;/li&gt;
+&lt;li&gt;lukesmith.xyz&lt;/li&gt;
+&lt;li&gt;brycevandegrift.xyz&lt;/li&gt;
+&lt;li&gt;brodierobertson.xyz&lt;/li&gt;
+&lt;li&gt;ericmurphy.xyz&lt;/li&gt;
+&lt;li&gt;jwz.org&lt;/li&gt;
+&lt;li&gt;notnapoleon.net&lt;/li&gt;
+&lt;li&gt;patreon.com/thehatedone (too private to have site)&lt;/li&gt;
+&lt;li&gt;m-chrzan.xyz&lt;/li&gt;
+&lt;li&gt;consoom.soy&lt;/li&gt;
+&lt;li&gt;seirdy.one&lt;/li&gt;
+&lt;li&gt;btxx.org&lt;/li&gt;
+&lt;li&gt;garrit.xyz&lt;/li&gt;
+&lt;li&gt;coleroberts.dev&lt;/li&gt;
+&lt;li&gt;jarbus.net&lt;/li&gt;
+&lt;li&gt;phire.cc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;video-content-creators&#34;&gt;Video content creators&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/i/kings.webp&#34; alt=&#34;3 kings&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud content.</title>
+      <link>/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/content/</guid>
+      <description>&lt;p&gt;There is place for social media replacements but you&amp;rsquo;re in wrong place.&lt;/p&gt;
+&lt;h3 id=&#34;content-archivetargz&#34;&gt;content archive(tar.gz)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://hob2dkgtiobbnyuilapv2vqv27ygtl4zl5obmvuy26ug47vl4ndnkjyd.onion/content.tar.gz&#34;&gt;TOR onion&lt;/a&gt;
+&lt;a href=&#34;https://startpage.com&#34;&gt;LBRY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;decompress with &lt;a href=&#34;https://peazip.github.io&#34;&gt;PeaZip&lt;/a&gt;, &lt;a href=&#34;https://www.7-zip.org&#34;&gt;7-zip&lt;/a&gt;, material files(android) or gnu tar&lt;/li&gt;
+&lt;li&gt;On android open html with markor or ghost commander.&lt;/li&gt;
+&lt;li&gt;On desktop drag and drop html from your file manager to browser.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Help</title>
+      <link>/help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/help/</guid>
+      <description>&lt;h2 id=&#34;rss&#34;&gt;RSS&lt;/h2&gt;
+&lt;p&gt;This website has minor bugs, and i haven&amp;rsquo;t been able fix everything in a few months, i will not fix it, it&amp;rsquo;s just retarded.
+You can&amp;rsquo;t rely on rss button. If you want to see actual posts in rss, click rss button when you visit subfolders like /update or /soydev.
+Can&amp;rsquo;t remember how many times i have changed something on this site, it doesn&amp;rsquo;t make sense.&lt;/p&gt;
+&lt;h2 id=&#34;content-archivetargz-with-local-html&#34;&gt;Content archive(tar.gz with local html)&lt;/h2&gt;
+&lt;p&gt;Tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;decompress with &lt;a href=&#34;https://peazip.github.io&#34;&gt;PeaZip&lt;/a&gt;, &lt;a href=&#34;https://www.7-zip.org&#34;&gt;7-zip&lt;/a&gt;, material files(android) or gnu tar&lt;/li&gt;
+&lt;li&gt;On android open html with markor or ghost commander.&lt;/li&gt;
+&lt;li&gt;On desktop drag and drop html from your file manager to browser.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;about-my-content-prodoosing-and-difficulty-in-doing-it&#34;&gt;About my content prodoosing and difficulty in doing it&lt;/h2&gt;
+&lt;p&gt;I don&amp;rsquo;t like to write super long essays because i usually find that for the most part i feel like there is no need for endless slop, and it feels unmanagable for me pretty quickly. I probably overthink it.&lt;/p&gt;
+&lt;p&gt;The topics that i choose to write are usually difficult, but i feel like i have to create something meaningful so that i can give back like people that i read when i was younger, and so that new people that seek truth can get it at premium quality.&lt;/p&gt;
+&lt;p&gt;To some extent i also want to advertise myself and stick out of internet garbage ocean. This is a conversation starter, and it already worked for me. Obviously it doesn&amp;rsquo;t make sense to start talking to everyone without knowing them from something.&lt;/p&gt;
+&lt;p&gt;I have significantly more motivation to actually say something longer if the topic isn&amp;rsquo;t covered well, or ignored.&lt;/p&gt;
+&lt;h2 id=&#34;unstable-internet-and-power-outage---onion-hidden-service-torrents-lbry&#34;&gt;Unstable internet and power outage - Onion hidden service, Torrents, LBRY&lt;/h2&gt;
+&lt;p&gt;I had very unstable internet connection for over a year, they came and replaced the router for free on agreement, it seemed better for a day, after that everything was back to normal. The agreement will soon end and we will try with other company or even a cellular plan if that would be enough bandwidth. I didn&amp;rsquo;t have any problems with cellular connection, i had to switch to it many times.
+I also have a short power outage a few times a week. Take that into account.&lt;/p&gt;
+&lt;p&gt;I have bigger files and archives on LBRY, i might host them directly through LBRY or BitTorrent if there will be a need.
+If you have some problems downloading/viewing content, you should contact me through e-mail instead of immediately giving up. There aren&amp;rsquo;t that many people viewing this anyway, so it&amp;rsquo;s good to see someone interested. My setup and situation is changing over time and it&amp;rsquo;s best to simply ask.&lt;br&gt;
+I don&amp;rsquo;t want to rent more stuff than i use, and i barely use anything.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t have a seedbox 24/7.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
